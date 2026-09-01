@@ -1,0 +1,14 @@
+# Pinned to the versions used to produce the figures in the report.
+# These four are the complete dependency closure of every script shipped here.
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.9
+ase==3.29.0
+
+# Not required to reproduce any figure:
+#   xtb-ase   - only for scripts/mlip/relax_clusters_xtb.py, which also needs the
+#               xtb 6.7.1 executable on PATH (see README, "External codes").
+#   carmm     - only for scripts/dos/cache_atom_resolved_dos.py, the step that
+#               builds results/tables/dos_atom_resolved_cluster/H02.npz from an
+#               FHI-aims Mulliken.out. That cache is shipped, so Figure 4
+#               replots without carmm.

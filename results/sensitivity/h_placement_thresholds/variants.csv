@@ -1,0 +1,14 @@
+variant,parameter,value,sp_angle_deg,max_cage_ring_area,min_hh,min_hc
+production,production,,155.0,12.0,1.4,1.4
+max_cage_ring_area_10,max_cage_ring_area,10.0,155.0,10.0,1.4,1.4
+max_cage_ring_area_11,max_cage_ring_area,11.0,155.0,11.0,1.4,1.4
+max_cage_ring_area_13,max_cage_ring_area,13.0,155.0,13.0,1.4,1.4
+max_cage_ring_area_14,max_cage_ring_area,14.0,155.0,14.0,1.4,1.4
+min_steric_distance_1p2,min_steric_distance,1.2,155.0,12.0,1.2,1.2
+min_steric_distance_1p3,min_steric_distance,1.3,155.0,12.0,1.3,1.3
+min_steric_distance_1p5,min_steric_distance,1.5,155.0,12.0,1.5,1.5
+min_steric_distance_1p6,min_steric_distance,1.6,155.0,12.0,1.6,1.6
+sp_angle_deg_150,sp_angle_deg,150.0,150.0,12.0,1.4,1.4
+sp_angle_deg_152p5,sp_angle_deg,152.5,152.5,12.0,1.4,1.4
+sp_angle_deg_157p5,sp_angle_deg,157.5,157.5,12.0,1.4,1.4
+sp_angle_deg_160,sp_angle_deg,160.0,160.0,12.0,1.4,1.4

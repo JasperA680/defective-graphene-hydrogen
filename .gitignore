@@ -1,0 +1,26 @@
+# Virtual environment created by setup_venv.sh
+.venv-dos/
+.venv*/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Regenerated per-structure ring figures (95 PNGs, ~61 MB).
+# plot_n_membered_rings_all.py writes these; the report figures in
+# results/figures/ are tracked instead.
+results/figures/n_membered_rings/
+
+# Sandbox output of the threshold sensitivity analysis (~107 MB).
+# The four summary CSVs alongside it are tracked.
+results/sensitivity/h_placement_thresholds/geometries/
+results/sensitivity/h_placement_thresholds/site_tables/
+results/sensitivity/h_placement_thresholds/summaries/
+
+# Calculation output: too large to distribute, see README "External codes".
+**/aims.out
+**/aims.out.backup_*
+**/Mulliken.out
+*.traj
+logs/
+core
