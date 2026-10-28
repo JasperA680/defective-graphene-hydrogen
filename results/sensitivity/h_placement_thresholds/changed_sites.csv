@@ -1,5 +1,5 @@
 parameter,value,structure_id,atom_index,H_production,H_test,coordination,ccc_angle_deg,site_class_production,site_class_test,addition_status_production,addition_status_test
-sp_angle_deg,150.0,A09,436,1,0,2,150.25511870305778,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,A09,436,1,0,2,150.2551187030578,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,A09,440,1,0,2,153.43494882292202,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,B05,158,1,0,2,150.94539590092256,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,B07,430,1,0,2,150.80251395393566,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
@@ -7,7 +7,7 @@ sp_angle_deg,150.0,B09,336,1,0,2,150.94539590092307,internal_defect_edge_coord2,
 sp_angle_deg,150.0,C01,401,1,0,2,153.434948822922,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,C01,422,1,0,2,153.4349488229221,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,C07,421,1,0,2,150.25511870305775,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,C08,294,1,0,2,150.25511870305772,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,C08,294,1,0,2,150.25511870305775,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,C09,352,1,0,2,150.9453959009228,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,D02,259,1,0,2,150.94539590092282,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,D02,403,1,0,2,150.94539590092276,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
@@ -17,12 +17,12 @@ sp_angle_deg,150.0,D03,306,1,0,2,150.94539590092276,internal_defect_edge_coord2,
 sp_angle_deg,150.0,D07,406,1,0,2,154.44003482817604,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,D10,391,1,0,2,153.434948822922,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E01,396,1,0,2,153.43494882292205,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,E02,222,1,0,2,150.94539590092296,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,E02,367,1,0,2,150.2551187030577,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,E02,222,1,0,2,150.945395900923,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,E02,367,1,0,2,150.25511870305772,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E03,361,1,0,2,150.2551187030578,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E03,383,1,0,2,153.434948822922,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E04,382,1,0,2,153.4349488229221,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,E04,391,1,0,2,150.2551187030577,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,E04,391,1,0,2,150.25511870305772,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E04,394,1,0,2,153.4349488229221,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E06,290,1,0,2,150.94539590092285,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,E06,368,1,0,2,150.25511870305783,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
@@ -36,7 +36,7 @@ sp_angle_deg,150.0,G02,382,1,0,2,153.43494882292202,internal_defect_edge_coord2,
 sp_angle_deg,150.0,G03,352,1,0,2,151.85839876773838,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,G04,333,1,0,2,150.94539590092282,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,G05,365,1,0,2,153.4349488229219,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,G06,372,1,0,2,150.2551187030577,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,G06,372,1,0,2,150.25511870305772,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,G07,356,1,0,2,154.44003482817632,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,G08,366,1,0,2,150.2551187030577,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,G08,384,1,0,2,150.0684881594924,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
@@ -48,7 +48,7 @@ sp_angle_deg,150.0,H05,292,1,0,2,153.4349488229221,internal_defect_edge_coord2,i
 sp_angle_deg,150.0,H08,351,1,0,2,150.94539590092293,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,H09,354,1,0,2,153.43494882292222,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,I02,133,1,0,2,150.0183606311507,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
-sp_angle_deg,150.0,I04,292,1,0,2,150.2551187030577,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
+sp_angle_deg,150.0,I04,292,1,0,2,150.25511870305772,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,I06,228,1,0,2,150.94539590092276,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,I07,271,1,0,2,150.9453959009232,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
 sp_angle_deg,150.0,I07,326,1,0,2,150.94539590092293,internal_defect_edge_coord2,internal_sp_linear_coord2,accepted,not_candidate
@@ -111,7 +111,7 @@ sp_angle_deg,157.5,G03,377,1,2,1,,internal_sp_terminus_coord1,coord1_terminus,ac
 sp_angle_deg,157.5,G05,376,0,1,2,157.38013505195954,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,157.5,H02,376,0,1,2,155.22485943116803,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,157.5,H05,252,0,1,2,157.38013505195957,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
-sp_angle_deg,157.5,H05,359,0,1,2,155.7722546820459,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
+sp_angle_deg,157.5,H05,359,0,1,2,155.77225468204594,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,157.5,H06,322,0,1,2,156.80140948635182,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,157.5,H06,349,0,1,2,157.2855876468328,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,157.5,H08,208,0,1,2,155.92450174492123,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
@@ -140,7 +140,7 @@ sp_angle_deg,160.0,G04,365,0,1,2,158.40468955103228,internal_sp_linear_coord2,in
 sp_angle_deg,160.0,G05,376,0,1,2,157.38013505195954,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,160.0,H02,376,0,1,2,155.22485943116803,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,160.0,H05,252,0,1,2,157.38013505195957,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
-sp_angle_deg,160.0,H05,359,0,1,2,155.7722546820459,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
+sp_angle_deg,160.0,H05,359,0,1,2,155.77225468204594,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,160.0,H06,322,0,1,2,156.80140948635182,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,160.0,H06,349,0,1,2,157.2855876468328,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
 sp_angle_deg,160.0,H08,208,0,1,2,155.92450174492123,internal_sp_linear_coord2,internal_defect_edge_coord2,not_candidate,accepted
