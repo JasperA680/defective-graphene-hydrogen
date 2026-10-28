@@ -16,6 +16,10 @@ Python 3.10 or newer. No compiled dependencies.
 bash setup_venv.sh
 ```
 
+If `python3` on your PATH is older than 3.10, the script stops and says so. Point it at a
+newer interpreter with `PYTHON=python3.11 bash setup_venv.sh`, or load one first (on
+ARCHER2: `module load cray-python`).
+
 Then reproduce Figure 3 of the report directly from the 95 experimental carbon structures:
 
 ```bash
